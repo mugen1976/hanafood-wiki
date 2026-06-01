@@ -3,6 +3,21 @@
 > 모든 위키 작업의 시간순 기록. Append-only.
 > 형식: `## [YYYY-MM-DD] action | subject`
 
+## [2026-06-01] auto-scan | 아리식당
+- 1개 발주 패턴 감지 (1개 메시지 중)
+- raw 저장: /root/wiki/raw/chatlogs/아리식당-2026-06-01.json
+## [2026-06-01] auto-scan | 가영식당
+- 2개 발주 패턴 감지 (2개 메시지 중)
+- raw 저장: /root/wiki/raw/chatlogs/가영식당-2026-06-01.json
+## [2026-06-01] auto-scan | 큰힘병원
+- 1개 발주 패턴 감지 (1개 메시지 중)
+- raw 저장: /root/wiki/raw/chatlogs/큰힘병원-2026-06-01.json
+## [2026-06-01] auto-scan | 김해센텀요양병원
+- 2개 발주 패턴 감지 (2개 메시지 중)
+- raw 저장: /root/wiki/raw/chatlogs/김해센텀요양병원-2026-06-01.json
+## [2026-06-01] auto-scan | 윌리스요양병원
+- 1개 발주 패턴 감지 (1개 메시지 중)
+- raw 저장: /root/wiki/raw/chatlogs/윌리스요양병원-2026-06-01.json
 ## [2026-05-31] index-fix | 파크사이드재활의학병원 인덱스 누락 복구
 - 원인: 2026-05-22 이후 index.md 업데이트 누락 (파크사이드 page는 05-26 생성)
 - 수정: `index.md` — 파크사이드 목록 추가 (가나다순 태-하 사이), 페이지 카운트 29→30

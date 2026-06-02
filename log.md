@@ -3,6 +3,66 @@
 > 모든 위키 작업의 시간순 기록. Append-only.
 > 형식: `## [YYYY-MM-DD] action | subject`
 
+## [2026-06-02] auto-scan | 버클리유치원
+- 2개 발주 패턴 감지 (2개 메시지 중)
+- raw 저장: /root/wiki/raw/chatlogs/버클리유치원-2026-06-02.json
+## [2026-06-02] auto-scan | 아리식당
+- 3개 발주 패턴 감지 (3개 메시지 중)
+- raw 저장: /root/wiki/raw/chatlogs/아리식당-2026-06-02.json
+## [2026-06-02] auto-scan | 가영식당
+- 2개 발주 패턴 감지 (3개 메시지 중)
+- raw 저장: /root/wiki/raw/chatlogs/가영식당-2026-06-02.json
+## [2026-06-02] auto-scan | 당당한방병원
+- 2개 발주 패턴 감지 (2개 메시지 중)
+- raw 저장: /root/wiki/raw/chatlogs/당당한방병원-2026-06-02.json
+## [2026-06-02] auto-scan | 성모유치원
+- 1개 발주 패턴 감지 (1개 메시지 중)
+- raw 저장: /root/wiki/raw/chatlogs/성모유치원-2026-06-02.json
+## [2026-06-02] auto-scan | 정다운요양병원
+- 3개 발주 패턴 감지 (8개 메시지 중)
+- raw 저장: /root/wiki/raw/chatlogs/정다운요양병원-2026-06-02.json
+## [2026-06-02] auto-scan | 은화복지재단
+- 1개 발주 패턴 감지 (3개 메시지 중)
+- raw 저장: /root/wiki/raw/chatlogs/은화복지재단-2026-06-02.json
+## [2026-06-02] auto-scan | 큰힘병원
+- 2개 발주 패턴 감지 (3개 메시지 중)
+- raw 저장: /root/wiki/raw/chatlogs/큰힘병원-2026-06-02.json
+## [2026-06-02] auto-scan | 베스트한방병원
+- 2개 발주 패턴 감지 (10개 메시지 중)
+- raw 저장: /root/wiki/raw/chatlogs/베스트한방병원-2026-06-02.json
+## [2026-06-02] auto-scan | 김해센텀요양병원
+- 22개 발주 패턴 감지 (39개 메시지 중)
+- raw 저장: /root/wiki/raw/chatlogs/김해센텀요양병원-2026-06-02.json
+## [2026-06-02] auto-scan | 아이사랑병원
+- 5개 발주 패턴 감지 (16개 메시지 중)
+- raw 저장: /root/wiki/raw/chatlogs/아이사랑병원-2026-06-02.json
+## [2026-06-02] auto-scan | 우리행복요양병원
+- 2개 발주 패턴 감지 (8개 메시지 중)
+- raw 저장: /root/wiki/raw/chatlogs/우리행복요양병원-2026-06-02.json
+## [2026-06-02] auto-scan | 태종대요양병원
+- 1개 발주 패턴 감지 (7개 메시지 중)
+- raw 저장: /root/wiki/raw/chatlogs/태종대요양병원-2026-06-02.json
+## [2026-06-02] auto-scan | 효메디요양병원
+- 2개 발주 패턴 감지 (6개 메시지 중)
+- raw 저장: /root/wiki/raw/chatlogs/효메디요양병원-2026-06-02.json
+## [2026-06-02] auto-scan | 용당요양병원
+- 2개 발주 패턴 감지 (6개 메시지 중)
+- raw 저장: /root/wiki/raw/chatlogs/용당요양병원-2026-06-02.json
+## [2026-06-02] auto-scan | 파크사이드재활의학병원
+- 5개 발주 패턴 감지 (12개 메시지 중)
+- raw 저장: /root/wiki/raw/chatlogs/파크사이드재활의학병원-2026-06-02.json
+## [2026-06-02] auto-scan | 한세병원
+- 4개 발주 패턴 감지 (9개 메시지 중)
+- raw 저장: /root/wiki/raw/chatlogs/한세병원-2026-06-02.json
+## [2026-06-02] auto-scan | 효은요양병원
+- 1개 발주 패턴 감지 (4개 메시지 중)
+- raw 저장: /root/wiki/raw/chatlogs/효은요양병원-2026-06-02.json
+## [2026-06-02] auto-scan | 가나안요양병원
+- 7개 발주 패턴 감지 (16개 메시지 중)
+- raw 저장: /root/wiki/raw/chatlogs/가나안요양병원-2026-06-02.json
+## [2026-06-02] auto-scan | 윌리스요양병원
+- 11개 발주 패턴 감지 (19개 메시지 중)
+- raw 저장: /root/wiki/raw/chatlogs/윌리스요양병원-2026-06-02.json
 ## [2026-06-01] auto-scan | 아리식당
 - 1개 발주 패턴 감지 (1개 메시지 중)
 - raw 저장: /root/wiki/raw/chatlogs/아리식당-2026-06-01.json
